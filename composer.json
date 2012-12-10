@@ -1,0 +1,8 @@
+{
+    "name": "rebuy/ezpdf",
+    "autoload": {
+        "psr-0": {
+            "Pear_Style": "src/"
+        }
+    }
+}
